@@ -1,6 +1,6 @@
-package com.tucanoo.crm.data.repositories;
+package com.alex.crm.data.repositories;
 
-import com.tucanoo.crm.data.entities.Customer;
+import com.alex.crm.data.entities.Customer;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;

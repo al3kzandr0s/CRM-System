@@ -1,10 +1,10 @@
-package com.tucanoo.crm.controllers;
+package com.alex.crm.controllers;
 
+import com.alex.crm.data.entities.Customer;
+import com.alex.crm.data.repositories.CustomerRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.tucanoo.crm.data.entities.Customer;
-import com.tucanoo.crm.data.repositories.CustomerRepository;
-import com.tucanoo.crm.services.CustomerService;
+import com.alex.crm.services.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

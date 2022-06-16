@@ -1,4 +1,4 @@
-package com.tucanoo.crm.data.entities;
+package com.alex.crm.data.entities;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
