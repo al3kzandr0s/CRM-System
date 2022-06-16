@@ -1,4 +1,4 @@
-package com.tucanoo.crm;
+package com.alex.crm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,8 +1,8 @@
-package com.tucanoo.crm.services;
+package com.alex.crm.services;
 
-import com.tucanoo.crm.data.entities.Customer;
-import com.tucanoo.crm.data.repositories.CustomerRepository;
-import com.tucanoo.crm.data.specifications.CustomerDatatableFilter;
+import com.alex.crm.data.entities.Customer;
+import com.alex.crm.data.repositories.CustomerRepository;
+import com.alex.crm.data.specifications.CustomerDatatableFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

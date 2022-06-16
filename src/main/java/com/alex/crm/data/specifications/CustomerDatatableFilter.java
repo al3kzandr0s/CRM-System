@@ -1,6 +1,6 @@
-package com.tucanoo.crm.data.specifications;
+package com.alex.crm.data.specifications;
 
-import com.tucanoo.crm.data.entities.Customer;
+import com.alex.crm.data.entities.Customer;
 
 import javax.persistence.criteria.*;
 import java.util.ArrayList;
