@@ -33,3 +33,11 @@ The page after adding a new customer:
 
 ![image](https://user-images.githubusercontent.com/87822132/173996719-7463c7fb-b51d-4278-822f-73a107f992b7.png)
 
+
+
+The page where you can Update and/or Delete the customer:
+
+![image](https://user-images.githubusercontent.com/87822132/173999505-f6970b22-e013-4906-9bff-12b68e1b7eed.png)
+
+
+
