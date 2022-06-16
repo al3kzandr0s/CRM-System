@@ -1,5 +1,5 @@
 # CRM System
-This project is a simple web app using Spring Boot.
+This project is a simple CRUD web app using Thymeleaf, Spring Boot & basic HTML.
 
 The application is a CRM system for managing customers that features:
 
